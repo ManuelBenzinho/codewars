@@ -1,6 +1,3 @@
-# codewars
-My Codewars Solutions
-
 All my solution from codewars challenges
 
 Join us on this "healthy" war 
